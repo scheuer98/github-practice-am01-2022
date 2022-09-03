@@ -59,4 +59,5 @@
 |30|Yiwei Zheng  | 3 | sylvie-zheng | <https://github.com/sylvie-zheng/mywebsite22> |  <https://sylvie-zheng.netlify.app/> | 2022-09-02  |
 |31|Kavya Mahesh | 14 | Kavya-Mahesh | <https://github.com/Kavya-Mahesh/my_website> | <https://kavyamahesh-portfolio.netlify.app/> | 2022-09-03 |
 |32| Disha Javur | 2 | Djavur | <https://github.com/DJavur/my_website.git> |  <https://disha-javur-portfolio.netlify.app/> | 2022-09-03 | 
+|33| Alex Scheuer | 1 | scheuer98 | <https://github.com/scheuer98/lbs_appliedstatistics> |  <> | 2022-09-03 | 
 
